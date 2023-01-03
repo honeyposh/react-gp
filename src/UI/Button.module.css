@@ -1,0 +1,17 @@
+.btn {
+  margin-top: 50px;
+  display: inline-flex;
+  /* align-items: center; */
+  /* justify-content: center; */
+}
+.button {
+  padding: 20px;
+  margin-left: 100px;
+  background-color: red;
+  outline: none;
+  border: none;
+  color: white;
+}
+calc {
+  background-color: rgb(110, 207, 97);
+}
