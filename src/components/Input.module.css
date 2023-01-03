@@ -8,11 +8,8 @@ input {
 .container {
   margin-top: 30px;
   text-align: center;
-}
-@media screen and (max-width: 600px) {
-  .container {
-    flex-direction: column;
-  }
+  width: 1822px;
+  height: 1928px;
 }
 
 button {
